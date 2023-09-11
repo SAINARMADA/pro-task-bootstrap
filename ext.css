@@ -1,0 +1,118 @@
+#{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+.s{
+	height: 400px;
+	width: 200px;
+	background: red;
+}
+#logo{
+	color: blue;
+}
+a{
+	text-decoration: none;
+}
+
+#img1{
+	width: 1000px;
+	height: 250px;
+}
+#img2{
+	
+	width: 600px;
+	height: 360px;
+}
+#img3{
+	
+	width: 800px;
+	height: 300px;
+}
+h3{
+	text-transform: capitalize;
+}
+.a{
+	margin-top: 10px;
+	text-align: center;
+}
+.custom-icon{
+        font-size: 40px; 
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: blue;
+}
+h5
+{
+	text-align: center;
+}
+.card-text{
+	text-align: center;
+}
+.custom-icon1
+{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+}
+.custom-icon2
+{
+            color: blue;
+}
+.custom-icon3
+{
+            color: pink;
+}
+.a4{
+	text-align: left;
+}
+#btn{
+	border: 2px solid white;
+}
+#card{
+	text-align: center;
+}
+#a6{
+	margin-top: 50px;
+	text-align: center;
+}
+#a7{
+	text-align: center;
+}
+.btn2{
+	border: none;
+	background-color: blue;
+}
+.b1{
+	text-align: center;
+}
+#b2{
+	height: 400px;
+}
+.b3{
+	color: blue;
+}
+#bg{
+	background: url(img23.pn) left top repeat;
+	background-size: cover;
+}
+#bg2{
+	background: url(img22.jpg) left top repeat;
+	background-size: cover;
+}
+#c{
+	width: 300px;
+	box-shadow: 2px 2px 2px silver;
+
+}
+.b4{
+	text-align: left;
+}
+.s6{
+	text-transform: capitalize;
+}
+#bg3{
+	background: url(img19.jpg) left top repeat;
+	background-size: cover;
+}
